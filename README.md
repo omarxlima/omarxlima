@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Trabalhando com Desenvolvimento Web
+- 
 - 🌱 Estudando atualmente PHP e Laravel
 
 <a href="https://github.com/omarxlima">
