@@ -1,9 +1,6 @@
-### Olá!! Eu sou o Marx Lima🖖
+### Hi, I'm Marx Lima🖖
 
-
-
-- 
-- 🌱 Estudando atualmente PHP e Laravel
+- 🌱 I'm currently learning Web Development, data cience
 
 <a href="https://github.com/omarxlima">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=omarxlima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
