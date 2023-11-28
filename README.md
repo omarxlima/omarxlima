@@ -1,6 +1,6 @@
 ### Hi, I'm Marx Lima🖖
 
-- 🌱 I'm currently learning Web Development, data cience
+- 🌱 I'm currently learning Web Development, Data Cience
 
 <a href="https://github.com/omarxlima">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=omarxlima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
